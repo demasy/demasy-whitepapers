@@ -1,2 +1,2 @@
-# Demasy-Whitepapers
+# Demasy Whitepapers
 Demasy Whitepapers
